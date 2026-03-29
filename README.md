@@ -53,7 +53,7 @@ A **state-based logic system** ensures that both manual switches and cloud contr
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit_image.png)
+![Circuit Diagram](Hardware/circuit_image.png)
 
 > The circuit connects ESP8266 GPIO pins to relay inputs and switches, while the relay controls AC appliances safely.
 
